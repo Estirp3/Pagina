@@ -1,11 +1,9 @@
 #intro {
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
-  background-size: cover;
+  background-color: #4a5ab4;
 }
 
 #top{
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
-  background-size: cover;
+  background-color: #4a5ab4;
 }
 
 .top-nav-collapse {
@@ -44,7 +42,7 @@
 }
 
 #pricing .card-image {
-  background: url("../img/architecture.jpg") no-repeat center center;
+  background-color: #4a5ab4;
 }
 
 #pricing ul li {
